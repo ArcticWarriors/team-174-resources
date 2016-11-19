@@ -1,2 +1,2 @@
-# team-174-resources
-Learning materials and templates for FRC Team 174, the Arctic Warriors
+# FRC Team 174 Resources
+Learning materials and other resources for FRC Team 174, the Arctic Warriors.
